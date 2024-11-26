@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NerdBomb-v2
+- 👋 Hi, I’m @DragonFly
 - 👀 I’m interested in technology, science and mathematics 
 - 💞️ I’m looking for new and simple ideas to work upon
 
