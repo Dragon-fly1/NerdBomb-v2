@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NerdBomb-v2
 - 👀 I’m interested in technology, science and mathematics 
-- 🌱 I’m currently learning articial intelligence
 - 💞️ I’m looking for new and simple ideas to work upon
 
 <!---
